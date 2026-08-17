@@ -767,4 +767,53 @@
 				<item name="MF_Snack_RanchCrunchies" chance="0.02" />
 				<item name="MF_Snack_PB" chance="0.02" />
 		</cargo>
+
+	<!-- ADD THESE NEW PRESETS INTO YOUR VANILLA "cfgrandompresets.xml" -->
+		<cargo chance="0.25" name="PokemonBoosterPack">
+				<!-- 1 Card Booster -->
+				<item name="PokemonBoosterPack_Basic1_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Basic2_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Basic3_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Fossil1_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Fossil2_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Fossil3_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Jungle1_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Jungle2_1x" chance="0.05" />
+				<item name="PokemonBoosterPack_Jungle3_1x" chance="0.05" />
+				<!-- 3 Cards Booster -->
+				<item name="PokemonBoosterPack_Basic1_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Basic2_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Basic3_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Fossil1_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Fossil2_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Fossil3_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Jungle1_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Jungle2_3x" chance="0.03" />
+				<item name="PokemonBoosterPack_Jungle3_3x" chance="0.03" />
+				<!-- 5 Cards Booster -->
+				<item name="PokemonBoosterPack_Basic1_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Basic2_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Basic3_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Fossil1_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Fossil2_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Fossil3_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Jungle1_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Jungle2_5x" chance="0.01" />
+				<item name="PokemonBoosterPack_Jungle3_5x" chance="0.01" />
+		</cargo>
+		<cargo chance="0.25" name="PokemonCardBox">
+				<!-- Boxes with slots -->
+				<item name="PokemonCard_Box1" chance="0.05" />
+				<item name="PokemonCard_Box2" chance="0.05" />
+				<item name="PokemonCard_Box3" chance="0.05" />
+				<item name="PokemonCard_Box4" chance="0.05" />
+				<item name="PokemonCard_Box5" chance="0.05" />
+				<!-- Boxes with inventory grid
+				<item name="PokemonCard_Box1i" chance="0.05" />
+				<item name="PokemonCard_Box2i" chance="0.05" />
+				<item name="PokemonCard_Box3i" chance="0.05" />
+				<item name="PokemonCard_Box4i" chance="0.05" />
+				<item name="PokemonCard_Box5i" chance="0.05" />
+				 -->
+		</cargo>
 </randompresets>

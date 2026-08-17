@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- Target Kits (boxed) for spawning in for players to place-->
+	<type name="Wilmas_PlateRack01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_TexasStar01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_HostageSteel01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_HostageSteel02_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_SpinningPlateRack01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_DualTree01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_Popper01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_Popper02_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
+	<type name="Wilmas_ArcheryTarget01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Wilmas_MultiKnockDown01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Wilmas_MultiKnockDown02_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Wilmas_BiathlonTarget01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Wilmas_DartsTarget01_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+    </type>
+	<type name="Wilmas_DartsTarget_No_Numbers_Kit">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>4200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
+    </type>
+	<!-- Targets Placed from kits by players -->
+	<type name="Wilmas_PlateRack01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_TexasStar01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_HostageSteel01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_HostageSteel02">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_SpinningPlateRack01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_DualTree01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_Popper01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_Popper02">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_ArcheryTarget01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_MultiKnockDown01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_MultiKnockDown02">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_BiathlonTarget01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_DartsTarget01">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+	<type name="Wilmas_DartsTarget_No_Numbers">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+</types>

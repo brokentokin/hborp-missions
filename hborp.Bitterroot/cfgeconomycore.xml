@@ -21,19 +21,49 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="dyn_smax" value="0" />
 		<default name="dyn_dmin" value="3" />
 		<default name="dyn_dmax" value="7" />
-		<default name="log_ce_loop" value="true"/>
-		<default name="log_ce_dynamicevent" value="true"/>
-		<default name="log_ce_vehicle" value="true"/>
-		<default name="log_ce_lootspawn" value="true"/>
-		<default name="log_ce_lootcleanup" value="true"/>
-		<default name="log_ce_lootrespawn" value="true"/>
-		<default name="log_ce_statistics" value="true"/>
-		<default name="log_ce_zombie" value="true"/>
-		<default name="log_ce_animal" value="true"/>
-		<default name="log_storageinfo" value="true"/>
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_ce_animal" value="false"/>
+		<default name="log_storageinfo" value="false"/>
 		<default name="log_hivewarning" value="true"/>
 		<default name="log_missionfilewarning" value="true"/>
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+
+	<ce folder="ModTypes">
+		<file name="Tokin-CommonCore-types.xml" type="types" />
+		<file name="Shooting-Range-Targets-types.xml" type="types" />
+		<file name="Shooting-Range-Objects-types.xml" type="types" />
+		<file name="Code-Lock-types.xml" type="types" />
+		<file name="MMG-Base-Storage-types.xml" type="types" />
+		<file name="Tokin-GameplayMechanics-types.xml" type="types" />
+		<file name="Bearkiller-Sniper-types.xml" type="types" />
+		<file name="Asmond-Vanilla-Clothing-spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Asmond-Vanilla-Clothing-types.xml" type="types" />
+		<file name="Asmond-Vanilla-Weapons-cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="Asmond-Vanilla-Weapons-types.xml" type="types" />
+		<file name="Building-Fortifications-types.xml" type="types" />
+		<file name="Expansion-types.xml" type="types" />
+		<file name="Tokin-GameplayMechanics-types.xml" type="types" />
+		<file name="CannabisPlus-types.xml" type="types" />
+		<file name="Uncuepas-Civilian-Clothing-types.xml" type="types" />
+		<file name="Uncuepas-Civilian-Clothing-spawnabletypes.xml" type="spawnabletypes" />
+		<file name="WindstridesClothingPack-types.xml" type="types" />
+		<file name="HBFactions-types.xml" type="types" />
+		<file name="HBAssets-types.xml" type="types" />
+		<file name="FilthyHead-types.xml" type="types" />
+		<file name="HBORP.xml" type="types" />
+		<file name="Heybarmby_Assets-types.xml" type="types" />
+		<file name="AllCountryFlags-types.xml" type="types" />
+		<file name="PokemonCards-types.xml" type="types" />
+		<file name="PokemonCards-spawnabletypes.xml" type="spawnabletypes" />
+		<file name="CookZ-types.xml" type="types" />
+	</ce>
 </economycore>

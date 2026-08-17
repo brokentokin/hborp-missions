@@ -48,7 +48,7 @@
 	},
 	"WorldsData":
 	{
-		"lightingConfig": 2,
+		"lightingConfig": 0,
 		"objectSpawnersArr": [],
 		"environmentMinTemps": 
 		
@@ -68,38 +68,38 @@
 	{
 		"HologramData":
 		{
-			"disableIsCollidingBBoxCheck": false,
+			"disableIsCollidingBBoxCheck": true,
 			"disableIsCollidingPlayerCheck": false,
-			"disableIsClippingRoofCheck": false,
-			"disableIsBaseViableCheck": false,
+			"disableIsClippingRoofCheck": true,
+			"disableIsBaseViableCheck": true,
 			"disableIsCollidingGPlotCheck": false,
 			"disableIsCollidingAngleCheck": false,
 			"disableIsPlacementPermittedCheck": false,
-			"disableHeightPlacementCheck": false,
+			"disableHeightPlacementCheck": true,
 			"disableIsUnderwaterCheck": false,
-			"disableIsInTerrainCheck": false,
+			"disableIsInTerrainCheck": true,
 			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
 		},
 		"ConstructionData":
 		{
-			"disablePerformRoofCheck": false,
-			"disableIsCollidingCheck": false,
-			"disableDistanceCheck": false
+			"disablePerformRoofCheck": true,
+			"disableIsCollidingCheck": true,
+			"disableDistanceCheck": true
 		}
 	},
 	"UIData":
 	{
-		"use3DMap": false,
+		"use3DMap": true,
 		"HitIndicationData":
 		{
-			"hitDirectionOverrideEnabled": true,
-			"hitDirectionBehaviour": 0,
+			"hitDirectionOverrideEnabled": false,
+			"hitDirectionBehaviour": 1,
 			"hitDirectionStyle": 0,
 			"hitDirectionIndicatorColorStr": "0xffbb0a1e",
-			"hitDirectionMaxDuration": 0.5,
+			"hitDirectionMaxDuration": 2.0,
 			"hitDirectionBreakPointRelative": 0.2,
 			"hitDirectionScatter": 10.0,
-			"hitIndicationPostProcessEnabled": false
+			"hitIndicationPostProcessEnabled": true
 		}
 	},
 	"MapData":
@@ -107,6 +107,6 @@
 		"ignoreMapOwnership": false,
 		"ignoreNavItemsOwnership": false,
 		"displayPlayerPosition": false,
-		"displayNavInfo": true
+		"displayNavInfo": false
 	}
 }
