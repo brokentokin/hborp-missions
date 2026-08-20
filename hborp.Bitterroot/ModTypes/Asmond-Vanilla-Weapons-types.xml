@@ -39,7 +39,7 @@
 <!-- PISTOLS -->
 
     <type name="Asmond_1911_Malvinas">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -55,10 +55,10 @@
     </type>
 
     <type name="Asmond_1911_Black">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -71,7 +71,7 @@
     </type>
 
     <type name="Asmond_1911_YellowKing">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>

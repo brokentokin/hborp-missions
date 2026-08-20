@@ -1133,10 +1133,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_9x19">
-        <nominal>120</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>75</min>
+        <min>5</min>
         <quantmin>10</quantmin>
         <quantmax>25</quantmax>
         <cost>100</cost>
@@ -4090,10 +4090,10 @@
         <usage name="Medic"/>
     </type>
     <type name="CZ527">
-        <nominal>45</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>7</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -4107,10 +4107,10 @@
         <value name="Tier3"/>
     </type>
     <type name="CZ550">
-        <nominal>14</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -5999,10 +5999,10 @@
         <category name="food"/>
     </type>
     <type name="Deagle">
-        <nominal>30</nominal>
+        <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>3</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -6071,10 +6071,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Derringer_Grey">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -11655,10 +11655,10 @@
         <category name="food"/>
     </type>
     <type name="M14">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12007,10 +12007,10 @@
         <usage name="HeliCrash"/>
     </type>
     <type name="M9A1_Bayonet">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12272,7 +12272,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_CZ550_10Rnd">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -13206,7 +13206,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mosin_Bayonet">
-        <nominal>16</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -14098,7 +14098,7 @@
         <category name="tools"/>
     </type>
     <type name="PSO11Optic">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -22739,10 +22739,10 @@
         <value name="Tier1"/>
     </type>
 	<type name="Mag_MP5_15Rnd">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>6</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -22751,10 +22751,10 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_MP5_30Rnd">
-        <nominal>5</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -24937,10 +24937,10 @@
 		<usage name="Elite"/>
     </type>
 	<type name="MF_MAC11">
-        <nominal>16</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>9</min>
+        <min>5</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -25150,10 +25150,10 @@
 	
 	<!--Bitterroot Magazines-->
 	<type name="MF_Mag_AR15_30rnd">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -25235,10 +25235,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_Mag_MAC11_25rnd">
-        <nominal>16</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -25249,7 +25249,7 @@
 		<usage name="Cult"/>
     </type>
 	<type name="MF_Mag_MK12_20rnd">
-        <nominal>7</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -25261,10 +25261,10 @@
         <usage name="Military"/>
     </type>
 	<type name="MF_Mag_MP5_30rnd">
-        <nominal>16</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -25370,10 +25370,10 @@
 	
 	<!--Bitterroot Ammo-->
 	<type name="MF_Ammo_300BLK">
-        <nominal>25</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>8</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -25386,10 +25386,10 @@
 		<value name="Tier2"/>
     </type>
 	<type name="MF_AmmoBox_300BLK_20Rnd">
-        <nominal>16</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25402,10 +25402,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_Ammo_300BLK_AP">
-        <nominal>12</nominal>
+        <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -25416,10 +25416,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_AmmoBox_300BLK_AP_20Rnd">
-        <nominal>8</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25430,10 +25430,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_Ammo_300Savage">
-        <nominal>25</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>7</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -25446,10 +25446,10 @@
         <value name="Tier2"/>
     </type>
 	<type name="MF_AmmoBox_300Savage_20Rnd">
-        <nominal>12</nominal>
+        <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25462,10 +25462,10 @@
         <value name="Tier3"/>
     </type>
 	<type name="MF_Ammo_46x30AP">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -25476,10 +25476,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_AmmoBox_46x30AP_20Rnd">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25490,10 +25490,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_Ammo_65Creedmoor">
-        <nominal>18</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>9</min>
+        <min>4</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -25507,10 +25507,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="MF_AmmoBox_65Creedmoor_20Rnd">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25525,7 +25525,7 @@
 	
 	<!--Bitterroot Attachments-->
 	<type name="M1903Optic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -25540,7 +25540,7 @@
 		<usage name="Cult"/>
     </type>
 	<type name="MF_LeopardMark5HD_Optic">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -26059,10 +26059,10 @@
         <value name="Tier3"/>
     </type>
 	<type name="Remnants_Mini14_Mag">
-        <nominal>8</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
